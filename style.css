@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 35px;
+width: 100%;
+margin: 0px;
+font-family: 'Paytone One', sans-serif;
+color: navy;
+}
+
+#status
+{
+font-size: 18px;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
